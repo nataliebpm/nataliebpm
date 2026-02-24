@@ -2,7 +2,7 @@
 
 I’m currently undertaking a project assessing the phylogenetic ties of a previously undescribed bat specimen. Some of my research interests include population genetics, paleogenomics and its relationship to disease research. 
 
-- 🔭 Some of my main interests include: molecular biology, mmunology, programming,epigenetics, evolution
+- 🔭 Some of my main interests include: molecular biology, immunology, programming, epigenetics, evolution
 - :bulb: I am also interested in: astronomy, physics, biochemistry and chemistry
 - 📫 How to reach me: natalie.appstor@hotmail.com
 
