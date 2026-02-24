@@ -1,13 +1,18 @@
-## Hi there 👋
+## Hi there :wave: I'm Natalie B. Pineda M 
 
+I’m currently undertaking a project assessing the phylogenetic ties of a previously undescribed bat specimen. Some of my research interests include population genetics, paleogenomics and its relationship to disease research. 
 
-My name is Natalie B. Pineda
-
-- 🔭 I’m currently undertaking a project assessing the phylogenetic ties of a previously undescribed bat specimen. Some of my research interests include population genetics, paleogenomics and its relationship to disease research. 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 🔭 Some of my main interests include: molecular biology, mmunology, programming,epigenetics, evolution
+- :bulb: I am also interested in: astronomy, physics, biochemistry and chemistry
 - 📫 How to reach me: natalie.appstor@hotmail.com
-- ⚡ Fun fact: ...
+
+### **Education**
+
+**Genomic Science (LCGEJ)** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | August 2024 - Present
+
+### **Experience**
+
+**PopGen & EvoBio + Genomic Medicine** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | Dr. @[Federico Sanchez Q.] | February 2025 - Present
+
+<img src="https://oferta.unam.mx/assets/img/dummies/enesjuriquilla1.png" width="120">   <img src="https://lcgej.unam.mx/wp-content/uploads/2018/01/logo_cuadro_lcgej_02.png" width="150">
 
