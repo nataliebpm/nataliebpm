@@ -6,6 +6,8 @@ I’m currently undertaking a project assessing the phylogenetic ties of a previ
 - :bulb: I am also interested in: astronomy, physics, biochemistry and chemistry
 - 📫 How to reach me: natalie.appstor@hotmail.com
 
+![molecular biology](https://upload.wikimedia.org/wikipedia/commons/0/0c/DNA_animation.gif)
+
 ### **Education**
 
 **Genomic Science (LCGEJ)** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | August 2024 - Present
