@@ -7,9 +7,9 @@ I’m currently undertaking a project assessing the phylogenetic ties of a previ
 - 📫 How to reach me: natalie.appstor@hotmail.com
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZmMxbDRpNnhjOHhkejR1ajN3eDVhemI4MXk5cG95bmt2YWdndDg5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/30pdYnh6VSw5mWD0Z0/giphy-downsized.gif" width="300"/>
-  <img src="https://uniqueoriginresearch.org/wp-content/blogs.dir/28/files/sites/52/2018/09/forward-sim.gif" width="300"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Speciation-Animation-13-hypothetical-generations.gif" width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZmMxbDRpNnhjOHhkejR1ajN3eDVhemI4MXk5cG95bmt2YWdndDg5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/30pdYnh6VSw5mWD0Z0/giphy-downsized.gif" width="250"/>
+  <img src="https://uniqueoriginresearch.org/wp-content/blogs.dir/28/files/sites/52/2018/09/forward-sim.gif" width="250"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Speciation-Animation-13-hypothetical-generations.gif" width="250"/>
   
 </div>
 
